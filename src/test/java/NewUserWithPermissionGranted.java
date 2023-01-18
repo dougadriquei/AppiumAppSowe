@@ -25,7 +25,7 @@ public class NewUserWithPermissionGranted {
         desiredCapabilities.setCapability("automationName", "UiAutomator2");
         // desiredCapabilities.setCapability("appPackage", "io.platformbuilders.challenge.qa");
         // desiredCapabilities.setCapability("appActivity", "host.exp.exponent.MainActivity");
-        desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal\\AppiumSoWe2\\src\\test\\java\\resources\\challenge-qa.apk");
+        desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal\\AppiumAppSowe\\src\\test\\java\\resources\\challenge-qa.apk");
         URL remoteUrl = new URL("http://localhost:4723/wd/hub");
         driver = new AndroidDriver(remoteUrl, desiredCapabilities);
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);

@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5f91d77e-00e5-4813-b434-e15fcc06dc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NewUserWithPermissionGranted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NewUserWithPermissionGranted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NewUserWithooutPermissionGranted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NewUserWithooutPermissionGranted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/dev-pessoal/AppiumAppSowe"
+    "last_opened_file_path": "C:/dev-pessoal/AppiumAppSowe",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
