@@ -22,10 +22,9 @@ This is a simple project using Appium, Android, Java and JUNIT, automating inter
 
 1. Install Appium server 1.7.2
 2. Install Java (JDK 19.0.1)
-4. Git clone
-5.  
 
-specific libraries
+
+The project is Java Maven Project and take a look at the pom.xml file, all dependencies are in their versions
 
 ## To Run 📚
 
@@ -39,3 +38,5 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 4. Right-click on one of the tests in the "src\test\java" folder
 
 5. Click on the "Run" option in IntelliJ
+
+
