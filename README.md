@@ -42,6 +42,7 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 ## Next Steps 📚
 🔋 run on adb emulator
 
+'''
 @Before
     public void setUp() throws MalformedURLException {
        ...
@@ -50,7 +51,7 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
        //desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolut-path.apk");
        ...
    }
-       
+'''       
 
 🪫 fix problem of build and connection on device
 🪫 fix problem of build and connection on emulator
