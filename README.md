@@ -41,22 +41,23 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 
 ## Next Steps 📚
 
+```
 🔋 run on adb emulator
 
-```
+
 @Before
     public void setUp() throws MalformedURLException {
        desiredCapabilities.setCapability("appPackage", "io.platformbuilders.challenge.qa");
        desiredCapabilities.setCapability("appActivity", "host.exp.exponent.MainActivity");
        //desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolut-path.apk");
    }
-```
 
-
-🪫 fix problem of build and connection on device
-🪫 fix problem of build and connection on emulator
+🔋 run on adb emulato
+🪫 **fix problem of build and connection on device**
+🪫 **fix problem of build and connection on emulator**
 🪫 implement page objects and components
 🪫 git actions
 🪫 docker
 🪫 sonar
 🪫 upgrade libs
+```
