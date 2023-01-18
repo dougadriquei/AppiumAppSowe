@@ -40,19 +40,18 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 5. Click on the "Run" option in IntelliJ
 
 ## Next Steps 📚
+
 🔋 run on adb emulator
 
 ```
-
 @Before
     public void setUp() throws MalformedURLException {
        desiredCapabilities.setCapability("appPackage", "io.platformbuilders.challenge.qa");
        desiredCapabilities.setCapability("appActivity", "host.exp.exponent.MainActivity");
        //desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolut-path.apk");
    }
-
-'''       
-
+```
+## Goal 📚
 🪫 fix problem of build and connection on device
 🪫 fix problem of build and connection on emulator
 🪫 implement page objects and components
@@ -60,4 +59,3 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 🪫 docker
 🪫 sonar
 🪫 upgrade libs
-
