@@ -44,15 +44,17 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 
 @Before
     public void setUp() throws MalformedURLException {
+       ...
        desiredCapabilities.setCapability("appPackage", "io.platformbuilders.challenge.qa");
        desiredCapabilities.setCapability("appActivity", "host.exp.exponent.MainActivity");
        //desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolut-path.apk");
-}
+       ...
+   }
        
-🪫 implement ranking
-🪫 new stages (pokémon new gens)
-🪫 nice win screen
-🪫 reset button
-🪫 start button
-
+🪫 fix problem of build and connection on device
+🪫 fix problem of build and connection on emulator
+🪫 implement page objects and components
+🪫 git actions
+🪫 docker
+🪫 sonar
 
