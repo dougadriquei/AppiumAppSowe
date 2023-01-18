@@ -3,7 +3,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
 </p>
-[![](https://data.jsdelivr.com/v1/package/npm/appium-chromedriver/badge)](https://www.jsdelivr.com/package/npm/appium-chromedriver)
 
 This is a simple project using Appium, Android, Java and JUNIT, automating interfaces of a weather forecast application
 
