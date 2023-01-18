@@ -29,6 +29,3 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 4. Right-click on one of the tests in the "src\test\java" folder
 
 5. Click on the "Run" option in IntelliJ
-
-
-<kbd> <img src="https://user-images.githubusercontent.com/50798883/197306866-bb1e7d1a-5b8f-4605-8d68-b4b1f8c7948a.gif" /> </kbd>
