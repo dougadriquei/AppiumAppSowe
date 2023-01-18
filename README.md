@@ -52,7 +52,6 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
        //desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolut-path.apk");
    }
 
-🔋 run on adb emulato
 🪫 **fix problem of build and connection on device**
 🪫 **fix problem of build and connection on emulator**
 🪫 implement page objects and components
