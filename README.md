@@ -57,4 +57,5 @@ Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal
 🪫 git actions
 🪫 docker
 🪫 sonar
+🪫 upgrade libs
 
