@@ -21,7 +21,7 @@ This is a simple project using Appium, Android, Java and JUNIT, automating inter
 
 1. Open Appium Server
 
-2. Connect android device to Windows PC USB
+2. Plug the usb into an android device (I used the galaxy 7 :)
 
 3. Change apk absolute path in "desiredCapabilities.setCapability(MobileCapabilityType.APP, "absolute-path\\src\\test\\java\\resources\\challenge-qa.apk")"
 Ex: desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:\\dev-pessoal\\AppiumAppSowe\\src\\test\\java\\resources\\challenge-qa.apk");
