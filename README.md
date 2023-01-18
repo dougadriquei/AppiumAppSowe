@@ -10,9 +10,9 @@ This is a simple project using Appium, Android, Java and JUNIT, automating inter
 
 -   Android APK
 -   Java (JDK 19.0.1)
--   Appium Server (4.1.2)
--   Appium Inspector (4.1.2)
--   Appium (java client)
+-   Appium Server (1.7.2)
+-   Appium Inspector (into appium server)
+-   Appium (java client 4.1.2)
 -   Junit (junit 4.12)
 -   Maven (19)
 -   IntelliJ
