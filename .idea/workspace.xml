@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f91d77e-00e5-4813-b434-e15fcc06dc9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NewUserWithPermissionGranted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NewUserWithPermissionGranted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/NewUserWithooutPermissionGranted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NewUserWithooutPermissionGranted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/dev-pessoal/AppiumAppSowe",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev-pessoal/AppiumAppSowe&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev-pessoal\AppiumSoWe2\src\test\java\resources" />
@@ -52,11 +51,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NewUserWithPermissionGranted">
+  <component name="RunManager" selected="JUnit.NewUserWithooutPermissionGranted (1)">
     <configuration name="NewUserWithPermissionGranted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AppiumSoWe2" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="NewUserWithPermissionGranted" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewUserWithooutPermissionGranted (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAppSowe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewUserWithooutPermissionGranted" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewUserWithooutPermissionGranted (1)" />
         <item itemvalue="JUnit.NewUserWithPermissionGranted" />
         <item itemvalue="JUnit.NewUserWithooutPermissionGranted" />
       </list>
@@ -99,17 +108,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/NewUserWithPermissionGranted.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AppiumSoWe2$SmokeTest.ic" NAME="SmokeTest Coverage Results" MODIFIED="1673979660894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

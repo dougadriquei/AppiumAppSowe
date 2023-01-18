@@ -55,7 +55,6 @@ public class NewUserWithooutPermissionGranted {
 
     @After
     public void tearDown() {
-        driver.removeApp("io.platformbuilders.challenge.qa");
         driver.quit();
     }
 }
